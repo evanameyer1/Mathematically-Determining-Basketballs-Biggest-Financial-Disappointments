@@ -1,24 +1,24 @@
 ,Year,Player,Pos,Team,UUID
-0,2022,Ja Morant,PG,Memphis Grizzlies,995f5469-0ad6-4593-9259-39a82870eb2d
-1,2021,Julius Randle,PF,New York Knicks,faedf474-4d88-4710-9c85-b4fd8d1cf672
-2,2020,Brandon Ingram,F,New Orleans Pelicans,955fc3b8-6d53-4fb4-9c6e-37088fe56763
-3,2019,Pascal Siakam,F,Toronto Raptors,13e0791e-4851-4c0b-a496-2a1a7c379f5e
-4,2018,Victor Oladipo,G,Indiana Pacers,465372ba-ce7e-41fe-bba6-993a5eed0c90
-5,2017,Giannis Antetokounmpo,F,Milwaukee Bucks,6e925a07-b5f1-4f4f-87dd-d9fdf1d4ac44
-6,2016,CJ McCollum,G,Portland Trail Blazers,ff72c75a-58cb-46dd-8306-3a7ced101e41
-7,2015,Jimmy Butler,G,Chicago Bulls,659f6c7f-66ff-4642-ad0f-73de6588fd22
-8,2014,Goran Dragic,G,Phoenix Suns,d641e2e8-a511-4172-bb4c-fb1f200f7e9a
-9,2013,Paul George,G,Indiana Pacers,8bd6e7d0-0bde-4802-8a48-8678839740cc
-10,2012,Ryan Anderson,PF,Orlando Magic,470888f7-e4da-4ae5-8cad-0a6afc62db8f
-11,2011,Kevin Love,PF,Minnesota Timberwolves,6cf2a8c0-1e3f-453d-a0be-246271d28dc7
-12,2010,Aaron Brooks,G,Houston Rockets,ec2b1cb4-c757-44f1-928f-ecdbe9f09232
-13,2009,Danny Granger,SF,Indiana Pacers,9377be27-4adb-4540-b2f2-f7f81be9c3d3
-14,2008,Hedo Turkoglu,SF,Orlando Magic,
-15,2007,Monta Ellis,SG,Golden State Warriors,cdc39a9b-8a9a-45f2-9e61-f7718a712ccd
-16,2006,Boris Diaw,C,Phoenix Suns,0277bd77-09bf-4987-a6c9-86c284fc360e
-17,2005,Bobby Simmons,SF,LA Clippers,8f1b9e57-043a-4860-84f1-0b1a4379127b
-18,2004,Zach Randolph,F,Portland Trail Blazers,47621a25-09a8-41b7-9b83-eecf488c549a
-19,2003,Gilbert Arenas,PG,Golden State Warriors,7b32f2d8-6a6f-4349-b25c-f95d733105ae
-20,2002,Jermaine O'Neal,C,Indiana Pacers,f1e3c3ae-95ab-43a0-bf12-f59d2a96a373
-21,2001,Tracy McGrady,SG,Orlando Magic,7c74b779-6f5c-484e-9307-fc05b880c3aa
-22,2000,Jalen Rose,SG,Indiana Pacers,9e99123d-074a-4f90-9724-609186a05241
+0,2022,Ja Morant,PG,Memphis Grizzlies,7511efae-6609-4e92-b8c4-86809070e70a
+1,2021,Julius Randle,PF,New York Knicks,d18b4bb5-2856-4ac3-93b3-342210554df5
+2,2020,Brandon Ingram,F,New Orleans Pelicans,843ee6e0-6471-4fcb-9a23-72e479e6b56d
+3,2019,Pascal Siakam,F,Toronto Raptors,75450fe1-4c96-4550-b9d2-e633d30ae2bd
+4,2018,Victor Oladipo,G,Indiana Pacers,f04cdc8a-1971-4d58-8454-969dd95b87e7
+5,2017,Giannis Antetokounmpo,F,Milwaukee Bucks,f5e976f0-2383-4f34-869e-912b0daebc1d
+6,2016,CJ McCollum,G,Portland Trail Blazers,0f573632-b692-47e3-a448-71de53dd5822
+7,2015,Jimmy Butler,G,Chicago Bulls,f0fb95cc-2a0f-4518-a8e6-e7a789fd7c15
+8,2014,Goran Dragic,G,Phoenix Suns,63f94e4b-0ea5-4f9b-b2e0-95851e27442b
+9,2013,Paul George,G,Indiana Pacers,fd3a23ba-8ccf-4790-bdf7-52782a310c86
+10,2012,Ryan Anderson,PF,Orlando Magic,10f2952a-16f2-442b-9f0d-34a7851f155f
+11,2011,Kevin Love,PF,Minnesota Timberwolves,d5ae36c1-d5d4-4d26-8c87-cdc42b78b90a
+12,2010,Aaron Brooks,G,Houston Rockets,65e8d418-5314-415d-ab16-02e088967b13
+13,2009,Danny Granger,SF,Indiana Pacers,8233d9c6-aa3b-4003-b811-f76f0adaad5b
+14,2008,Hidayet Turkoglu,SF,Orlando Magic,da312d61-dee7-4dd1-8a13-27f914f06475
+15,2007,Monta Ellis,SG,Golden State Warriors,faa665e8-2fa5-4bbb-8247-8ef7bbd8c177
+16,2006,Boris Diaw,C,Phoenix Suns,423f269d-72f8-468b-935f-af9febe4fe03
+17,2005,Bobby Simmons,SF,LA Clippers,80deaa35-9607-4aaa-a816-c5374a9534d9
+18,2004,Zach Randolph,F,Portland Trail Blazers,71672ebf-e0d2-4a53-b5cc-6597ef66ef33
+19,2003,Gilbert Arenas,PG,Golden State Warriors,a96219af-32f3-4970-a605-f51f2c30d8db
+20,2002,Jermaine O'Neal,C,Indiana Pacers,96dc66cb-3a67-44a2-b79f-b687938da7cf
+21,2001,Tracy McGrady,SG,Orlando Magic,b08d73ba-5002-4a5b-91cf-f16b7bb6fd6c
+22,2000,Jalen Rose,SG,Indiana Pacers,fe1c6c2c-55b2-4e9e-928b-49ead2b5532a

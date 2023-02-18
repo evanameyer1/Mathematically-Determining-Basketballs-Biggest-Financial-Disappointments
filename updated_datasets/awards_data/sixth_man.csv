@@ -1,24 +1,24 @@
 ,Year,Player,Pos,Team,UUID
-0,2022,Tyler Herro,PG,Miami Heat,e7af52ac-4e4e-4f88-b458-ec1a2fe18dc1
-1,2021,Jordan Clarkson,PG,Utah Jazz,d650e08a-bff5-4dbc-8df0-0467a8beafb8
-2,2020,Montrezl Harrell,F,LA Clippers,254d082a-656f-41a6-ac2e-fb73550cadf4
-3,2019,Lou Williams,G,LA Clippers,
-4,2018,Lou Williams,G,LA Clippers,
-5,2017,Eric Gordon,G,Houston Rockets,250749af-f7de-45fb-b913-00af35d8e26c
-6,2016,Jamal Crawford,G,LA Clippers,4a147dce-21fc-4703-b1a4-9b987bbbf14c
-7,2015,Lou Williams,G,Toronto Raptors,
-8,2014,Jamal Crawford,G,LA Clippers,4a147dce-21fc-4703-b1a4-9b987bbbf14c
-9,2013,JR Smith,G,New York Knicks,89cbee5a-bd3d-4df7-b18c-2ea5e6f9dce5
-10,2012,James Harden,SG,Oklahoma City Thunder,6472c887-cc8f-407b-b727-ccfcb5e803df
-11,2011,Lamar Odom,PF,Los Angeles Lakers,400784ad-5144-4822-9fc2-213b26f735ed
-12,2010,Jamal Crawford,G,Atlanta Hawks,4a147dce-21fc-4703-b1a4-9b987bbbf14c
-13,2009,Jason Terry,G,Dallas Mavericks,dbb4a5fa-dac7-4dac-8916-9d94a180b60a
-14,2008,Manu Ginobili,G,San Antonio Spurs,5e65e442-1275-42bb-bb05-8cefb258bbcc
-15,2007,Leandro Barbosa,G,Phoenix Suns,d9356e63-141d-47e4-a88c-fb1569f95ebf
-16,2006,Mike Miller,SG,Memphis Grizzlies,0235790d-86c2-49b9-b093-b95bec9165e2
-17,2005,Ben Gordon,SG,Chicago Bulls,097a5100-af13-443f-95b7-39f76068a9e2
-18,2004,Antawn Jamison,PF,Dallas Mavericks,26391d5a-bf40-4e81-8e70-cffc7549e5c0
-19,2003,Bobby Jackson,PG,Sacramento Kings,9259335d-366f-495b-a129-3f88a37cc9cf
-20,2002,Corliss Williamson,PF,Detroit Pistons,38d71f50-9d75-4222-b575-494b9015a517
-21,2001,Aaron McKie,SG,Philadelphia 76ers,e12c9f91-0ab9-4aea-8982-b10486c047d0
-22,2000,Rodney Rogers,SF,Phoenix Suns,532a9848-97b3-456a-904a-a3218b297e2e
+0,2022,Tyler Herro,PG,Miami Heat,b1359ec1-999b-418f-84e8-791659e3d59c
+1,2021,Jordan Clarkson,PG,Utah Jazz,d7aa0308-767f-4f9a-905e-8800e7c41ef7
+2,2020,Montrezl Harrell,F,LA Clippers,64379148-f232-45b7-abe0-c3f3b5c6138a
+3,2019,Louis Williams,G,LA Clippers,d861edd2-969c-4d79-ae0d-9c6d1ffa11d2
+4,2018,Louis Williams,G,LA Clippers,d861edd2-969c-4d79-ae0d-9c6d1ffa11d2
+5,2017,Eric Gordon,G,Houston Rockets,c9ef1818-96c7-404e-bec3-15d1ff9cc703
+6,2016,Jamal Crawford,G,LA Clippers,9d93177f-40b0-4e5f-9798-4f54ea6e53e0
+7,2015,Louis Williams,G,Toronto Raptors,d861edd2-969c-4d79-ae0d-9c6d1ffa11d2
+8,2014,Jamal Crawford,G,LA Clippers,9d93177f-40b0-4e5f-9798-4f54ea6e53e0
+9,2013,JR Smith,G,New York Knicks,c6934142-59ed-4ade-9c3c-eef7384f1dcb
+10,2012,James Harden,SG,Oklahoma City Thunder,ef0995d8-4803-48be-b6b8-d6cdc7e8c433
+11,2011,Lamar Odom,PF,Los Angeles Lakers,2c755913-c6d6-417f-9fcc-e902381f5aaf
+12,2010,Jamal Crawford,G,Atlanta Hawks,9d93177f-40b0-4e5f-9798-4f54ea6e53e0
+13,2009,Jason Terry,G,Dallas Mavericks,be74addb-41ff-4399-90a7-389841b06f97
+14,2008,Manu Ginobili,G,San Antonio Spurs,294027c7-c0bb-467a-8693-07d4216b7587
+15,2007,Leandro Barbosa,G,Phoenix Suns,57a483dc-c6a0-4a8f-af70-12d6e639ff7b
+16,2006,Mike Miller,SG,Memphis Grizzlies,263bcbf1-6373-464f-a26f-b58b8b2a96aa
+17,2005,Ben Gordon,SG,Chicago Bulls,053dc52a-8fda-4b6f-80dd-afd735cbf3e1
+18,2004,Antawn Jamison,PF,Dallas Mavericks,53a3b184-a4cf-42d0-9303-fca720ecd662
+19,2003,Bobby Jackson,PG,Sacramento Kings,80963568-fef4-4c9f-974f-1ff136f44b39
+20,2002,Corliss Williamson,PF,Detroit Pistons,093ef46f-a101-489a-a5cf-a7aff2b38028
+21,2001,Aaron McKie,SG,Philadelphia 76ers,09a30add-6ebb-4b34-a2c0-c999e2d705ab
+22,2000,Rodney Rogers,SF,Phoenix Suns,4a6d71cb-1f8b-4da8-a39f-47b633a7fd41

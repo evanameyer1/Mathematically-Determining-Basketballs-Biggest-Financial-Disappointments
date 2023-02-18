@@ -1,24 +1,24 @@
 ,Year,Player,Pos,Team,UUID
-0,2022,Marcus Smart,PG,Boston Celtics,f245d8cb-bd3e-416a-bd5d-f18528787dff
-1,2021,Rudy Gobert,C,Utah Jazz,21dfdf6a-b6b1-4482-a3b0-ae7525f62cf5
-2,2020,Giannis Antetokounmpo,F,Milwaukee Bucks,6e925a07-b5f1-4f4f-87dd-d9fdf1d4ac44
-3,2019,Rudy Gobert,C,Utah Jazz,21dfdf6a-b6b1-4482-a3b0-ae7525f62cf5
-4,2018,Rudy Gobert,C,Utah Jazz,21dfdf6a-b6b1-4482-a3b0-ae7525f62cf5
-5,2017,Draymond Green,F,Golden State Warriors,abef788d-ee07-40a4-82f8-b4d5fc0251e2
-6,2016,Kawhi Leonard,F,San Antonio Spurs,2f7f0fa9-e257-410a-9ce5-76d5169b07be
-7,2015,Kawhi Leonard,F,San Antonio Spurs,2f7f0fa9-e257-410a-9ce5-76d5169b07be
-8,2014,Joakim Noah,C,Chicago Bulls,d763c524-89fb-4a87-ac64-a975d7dc5b61
-9,2013,Marc Gasol,C,Memphis Grizzlies,e678ec98-8743-4724-8e85-4b8f82f142a3
-10,2012,Tyson Chandler,C,New York Knicks,a0087f6e-fab6-4cfb-9904-440a694c5037
-11,2011,Dwight Howard,C,Orlando Magic,e7a4eaa4-8ee1-4acb-b5d3-c70aba5fe189
-12,2010,Dwight Howard,C,Orlando Magic,e7a4eaa4-8ee1-4acb-b5d3-c70aba5fe189
-13,2009,Dwight Howard,C,Orlando Magic,e7a4eaa4-8ee1-4acb-b5d3-c70aba5fe189
-14,2008,Kevin Garnett,PF,Boston Celtics,0ed94437-a147-48ac-83f0-a3983fb029d8
-15,2007,Marcus Camby,C,Denver Nuggets,08d72f32-4f4b-4815-bbef-c3d3ccd6c41a
-16,2006,Ben Wallace,PF,Detroit Pistons,8493385e-ecb8-419b-ad37-22bdaf12781a
-17,2005,Ben Wallace,PF,Detroit Pistons,8493385e-ecb8-419b-ad37-22bdaf12781a
-18,2004,Metta World Peace,SF,Indiana Pacers,7fa706ab-2829-45e7-868d-59f8a1a3ee6a
-19,2003,Ben Wallace,PF,Detroit Pistons,8493385e-ecb8-419b-ad37-22bdaf12781a
-20,2002,Ben Wallace,PF,Detroit Pistons,8493385e-ecb8-419b-ad37-22bdaf12781a
-21,2001,Dikembe Mutombo,C,Philadelphia 76ers,090b4081-c6a7-4127-b20e-0efee51debdb
-22,2000,Alonzo Mourning,C,Miami Heat,24e0d59e-051e-491c-a277-266a817738ea
+0,2022,Marcus Smart,PG,Boston Celtics,3405bc55-e42c-4c1a-bf28-8cce55075991
+1,2021,Rudy Gobert,C,Utah Jazz,891f2335-cdb7-46ac-9824-4c1c585d809d
+2,2020,Giannis Antetokounmpo,F,Milwaukee Bucks,f5e976f0-2383-4f34-869e-912b0daebc1d
+3,2019,Rudy Gobert,C,Utah Jazz,891f2335-cdb7-46ac-9824-4c1c585d809d
+4,2018,Rudy Gobert,C,Utah Jazz,891f2335-cdb7-46ac-9824-4c1c585d809d
+5,2017,Draymond Green,F,Golden State Warriors,3076cee1-0d1c-4d32-abf5-c06a847a9ef8
+6,2016,Kawhi Leonard,F,San Antonio Spurs,a8de2eeb-afae-44ff-aa2f-24b11323daf9
+7,2015,Kawhi Leonard,F,San Antonio Spurs,a8de2eeb-afae-44ff-aa2f-24b11323daf9
+8,2014,Joakim Noah,C,Chicago Bulls,966edf81-b6b9-4f2c-83a5-73bcbe7f0157
+9,2013,Marc Gasol,C,Memphis Grizzlies,95e02886-747c-4d37-8859-30842f3b7707
+10,2012,Tyson Chandler,C,New York Knicks,8c507a1f-0040-43af-a02c-2e453b5ecb1c
+11,2011,Dwight Howard,C,Orlando Magic,fbfff279-863a-4e79-bd74-f997d4a2b072
+12,2010,Dwight Howard,C,Orlando Magic,fbfff279-863a-4e79-bd74-f997d4a2b072
+13,2009,Dwight Howard,C,Orlando Magic,fbfff279-863a-4e79-bd74-f997d4a2b072
+14,2008,Kevin Garnett,PF,Boston Celtics,4035d838-5ed7-4507-86ad-0488a9b9c358
+15,2007,Marcus Camby,C,Denver Nuggets,bf87ad28-9f95-4a3a-97d0-7e7c60d93403
+16,2006,Ben Wallace,PF,Detroit Pistons,33b29513-8bf9-40c0-b40c-92d241d0a33d
+17,2005,Ben Wallace,PF,Detroit Pistons,33b29513-8bf9-40c0-b40c-92d241d0a33d
+18,2004,Metta World Peace,SF,Indiana Pacers,7d5410b3-0b90-4fc9-8350-b731776296d0
+19,2003,Ben Wallace,PF,Detroit Pistons,33b29513-8bf9-40c0-b40c-92d241d0a33d
+20,2002,Ben Wallace,PF,Detroit Pistons,33b29513-8bf9-40c0-b40c-92d241d0a33d
+21,2001,Dikembe Mutombo,C,Philadelphia 76ers,ac5301b7-a106-4651-8329-2340abff1bbc
+22,2000,Alonzo Mourning,C,Miami Heat,8051eb29-ecd7-46b5-b2fa-415777e11e83
