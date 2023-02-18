@@ -1,24 +1,24 @@
 ,Year,Player,Pos,Team,UUID
-0,2022,Stephen Curry,PG,Golden State Warriors,0d729373-8640-4772-922d-1f8d86817adc
-1,2021,Giannis Antetokounmpo,PF,Milwaukee Bucks,6e925a07-b5f1-4f4f-87dd-d9fdf1d4ac44
-2,2020,LeBron James,F,Los Angeles Lakers,4ae6326c-7a7a-4902-a874-ae7a1358a285
-3,2019,Kawhi Leonard,F,Toronto Raptors,2f7f0fa9-e257-410a-9ce5-76d5169b07be
-4,2018,Kevin Durant,F,Golden State Warriors,fd4f493e-5002-456a-988a-109d51120984
-5,2017,Kevin Durant,F,Golden State Warriors,fd4f493e-5002-456a-988a-109d51120984
-6,2016,LeBron James,F,Cleveland Cavaliers,4ae6326c-7a7a-4902-a874-ae7a1358a285
-7,2015,Andre Iguodala,F,Golden State Warriors,47bcd493-56f5-4460-a03a-050bc3581522
-8,2014,Kawhi Leonard,F,San Antonio Spurs,2f7f0fa9-e257-410a-9ce5-76d5169b07be
-9,2013,LeBron James,F,Miami Heat,4ae6326c-7a7a-4902-a874-ae7a1358a285
-10,2012,LeBron James,F,Miami Heat,4ae6326c-7a7a-4902-a874-ae7a1358a285
-11,2011,Dirk Nowitzki,F,Dallas Mavericks,4700c150-0c70-4d0e-b464-75b7c0062372
-12,2010,Kobe Bryant,SF,Los Angeles Lakers,de239086-5a79-49b6-a5b1-552a168da685
-13,2009,Kobe Bryant,SF,Los Angeles Lakers,de239086-5a79-49b6-a5b1-552a168da685
-14,2008,Paul Pierce,SF,Boston Celtics,4b9de629-5a81-4abd-a7f2-5d3cbc8b19f6
-15,2007,Tony Parker,G,San Antonio Spurs,c379561a-119d-4af0-92e7-8f28c6cdfd94
-16,2006,Dwyane Wade,G,Miami Heat,28880f9d-32fd-4989-81f5-f512bd9985dc
-17,2005,Tim Duncan,C,San Antonio Spurs,5d4a4b8e-cecc-4fae-977b-853801dae01d
-18,2004,Chauncey Billups,PG,Detroit Pistons,6b545b06-856d-4dee-8fdb-139c8909fc46
-19,2003,Tim Duncan,C,San Antonio Spurs,5d4a4b8e-cecc-4fae-977b-853801dae01d
-20,2002,Shaquille O'Neal,C,Los Angeles Lakers,3fab405f-b6e2-4a04-8e0c-c58d6a1fea7c
-21,2001,Shaquille O'Neal,C,Los Angeles Lakers,3fab405f-b6e2-4a04-8e0c-c58d6a1fea7c
-22,2000,Shaquille O'Neal,C,Los Angeles Lakers,3fab405f-b6e2-4a04-8e0c-c58d6a1fea7c
+0,2022,Stephen Curry,PG,Golden State Warriors,2f1008df-4d89-43d1-b8be-b9f05520f109
+1,2021,Giannis Antetokounmpo,PF,Milwaukee Bucks,f5e976f0-2383-4f34-869e-912b0daebc1d
+2,2020,LeBron James,F,Los Angeles Lakers,f15e32f6-36a9-4efb-bce0-043c1bc98f68
+3,2019,Kawhi Leonard,F,Toronto Raptors,a8de2eeb-afae-44ff-aa2f-24b11323daf9
+4,2018,Kevin Durant,F,Golden State Warriors,3a91d425-1011-4d09-9852-8cd43df314bc
+5,2017,Kevin Durant,F,Golden State Warriors,3a91d425-1011-4d09-9852-8cd43df314bc
+6,2016,LeBron James,F,Cleveland Cavaliers,f15e32f6-36a9-4efb-bce0-043c1bc98f68
+7,2015,Andre Iguodala,F,Golden State Warriors,04eabe67-1489-4ba0-a12e-0ec83adefd56
+8,2014,Kawhi Leonard,F,San Antonio Spurs,a8de2eeb-afae-44ff-aa2f-24b11323daf9
+9,2013,LeBron James,F,Miami Heat,f15e32f6-36a9-4efb-bce0-043c1bc98f68
+10,2012,LeBron James,F,Miami Heat,f15e32f6-36a9-4efb-bce0-043c1bc98f68
+11,2011,Dirk Nowitzki,F,Dallas Mavericks,2c65279f-3a4f-4c12-8369-793f979c9934
+12,2010,Kobe Bryant,SF,Los Angeles Lakers,24d0e17f-fb15-4609-84f0-ff0d88dc0937
+13,2009,Kobe Bryant,SF,Los Angeles Lakers,24d0e17f-fb15-4609-84f0-ff0d88dc0937
+14,2008,Paul Pierce,SF,Boston Celtics,d14d1240-57b5-4cfb-b38e-3993d37eb1d3
+15,2007,Tony Parker,G,San Antonio Spurs,0ea2d348-8b73-4aab-8897-7c65a7b7146e
+16,2006,Dwyane Wade,G,Miami Heat,3debf7bb-2228-4a7a-82fb-3e730f83f012
+17,2005,Tim Duncan,C,San Antonio Spurs,1aba9f56-0b6b-428e-b755-819a337ce515
+18,2004,Chauncey Billups,PG,Detroit Pistons,f828440b-4e2d-49b7-9a7c-f69d2bfc58b4
+19,2003,Tim Duncan,C,San Antonio Spurs,1aba9f56-0b6b-428e-b755-819a337ce515
+20,2002,Shaquille O'Neal,C,Los Angeles Lakers,74b99a51-bb65-436f-8bcc-7022af2a490a
+21,2001,Shaquille O'Neal,C,Los Angeles Lakers,74b99a51-bb65-436f-8bcc-7022af2a490a
+22,2000,Shaquille O'Neal,C,Los Angeles Lakers,74b99a51-bb65-436f-8bcc-7022af2a490a

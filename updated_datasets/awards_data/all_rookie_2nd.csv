@@ -1,120 +1,120 @@
 ,Year,Player,Pos,Team,UUID
-0,2022,Herbert Jones,SF,New Orleans Pelicans,
-1,2022,Ayo Dosunmu,SG,Chicago Bulls,961267f5-2584-4bd6-83d5-5a60ba9ffcd1
-2,2022,Chris Duarte,SG,Indiana Pacers,08ec9b0c-85ec-49a2-8482-007f0a1c424b
-3,2022,Bones Hyland,PG,Denver Nuggets,1dd245a9-613c-474c-825f-5a1c6e6bfd28
-4,2022,Josh Giddey,SG,Oklahoma City Thunder,02675971-7c41-4076-9d4f-03899fd5313e
-5,2021,Desmond Bane,SG,Memphis Grizzlies,cba06847-e9dd-4ead-83ac-1de6da24504f
-6,2021,Immanuel Quickley,SG,New York Knicks,63cb0482-3407-4912-afa1-8f4a0a8b5671
-7,2021,Patrick Williams,PF,Chicago Bulls,b895d037-fb79-4d35-8798-e20ff16a0967
-8,2021,Isaiah Stewart,C,Detroit Pistons,1c2ccafb-c496-498b-a806-e5be1c16fc88
-9,2021,Isaac Okoro,SF,Cleveland Cavaliers,73fd00d7-0b09-4934-be25-eb7bddf4ed90
-10,2020,Terence Davis,G,Toronto Raptors,9bbecb75-8e6f-45d2-96ca-bee0ffe6a6df
-11,2020,Rui Hachimura,F,Washington Wizards,03f952d1-ec69-4afa-bb61-40ac638a5838
-12,2020,P.J. Washington,F,Charlotte Hornets,
-13,2020,Coby White,G,Chicago Bulls,615369fa-c3eb-4c99-bcbb-731d12188922
-14,2020,Tyler Herro,G,Miami Heat,e7af52ac-4e4e-4f88-b458-ec1a2fe18dc1
-15,2019,Landry Shamet,G,LA Clippers,c33cbbd9-d1d0-4e24-b3c2-d88a4ad33b75
-16,2019,Kevin Huerter,G,Atlanta Hawks,0ffbc3f6-76a0-4e9a-823d-f91ea6f1b3b0
-17,2019,Collin Sexton,G,Cleveland Cavaliers,9ae1ee5c-5129-4bce-acc7-c5da596788b9
-18,2019,Shai Gilgeous-Alexander,G,LA Clippers,d2172c87-1426-44a6-af6c-162b4e8cd5c2
-19,2019,Mitchell Robinson,C,New York Knicks,20ab76df-016c-429b-9694-6e3b7c5b744b
-20,2018,Bogdan Bogdanovic,G,Sacramento Kings,d5f0d1a9-84d4-4c5b-a769-79b9cd68507d
-21,2018,John Collins,F,Atlanta Hawks,3fcd88a5-46a3-4f39-aebb-3f7108e61b4c
-22,2018,Dennis Smith Jr.,G,Dallas Mavericks,
-23,2018,Josh Jackson,F,Phoenix Suns,4c3ccd9a-520a-42f8-aee3-027a7495e6b7
-24,2018,Lonzo Ball,G,Los Angeles Lakers,4971bcf6-5574-4db6-b543-f31478d5e360
-25,2017,Yogi Ferrell,G,Dallas Mavericks,f954b6b5-6aa2-4563-99e3-8e05a2037a76
-26,2017,Marquese Chriss,F,Phoenix Suns,953a9123-1897-4ef9-8cdc-96fe4b2b9028
-27,2017,Brandon Ingram,F,Los Angeles Lakers,955fc3b8-6d53-4fb4-9c6e-37088fe56763
-28,2017,Jaylen Brown,F,Boston Celtics,93de81c6-27d0-4b27-a6d5-3919db08063a
-29,2017,Jamal Murray,G,Denver Nuggets,f8b38ad4-e66a-4085-939a-7227ccc3c7b4
-30,2016,Willie Cauley-Stein,F,Sacramento Kings,3bea700a-f943-40d4-9402-82957e6821f6
-31,2016,Myles Turner,F,Indiana Pacers,353557ec-d042-4178-9297-601d08faf66d
-32,2016,Justise Winslow,F,Miami Heat,ee7b82b0-2b4e-4651-bc95-82a7d69b9232
-33,2016,D'Angelo Russell,G,Los Angeles Lakers,00495691-b0ae-4876-98f5-dd3c1121ce6a
-34,2016,Emmanuel Mudiay,G,Denver Nuggets,8deef99c-016b-4804-8291-e6fc916a982c
-35,2015,Bojan Bogdanovic,F,Brooklyn Nets,8d66c57e-9fe6-4bf2-a85c-efd9c24cdb4c
-36,2015,Langston Galloway,G,New York Knicks,b7cf266c-1734-49cd-a383-49b43c784b55
-37,2015,Marcus Smart,G,Boston Celtics,f245d8cb-bd3e-416a-bd5d-f18528787dff
-38,2015,Zach LaVine,G,Minnesota Timberwolves,7b5acea5-e3cc-4749-8254-00e089df460e
-39,2015,Jusuf Nurkic,C,Denver Nuggets,9fdfa8b2-ee84-4ce3-ac29-0c59999ee482
-40,2014,Kelly Olynyk,C,Boston Celtics,c1f006b9-1b14-40ad-b450-2913a4bca221
-41,2014,Gorgui Dieng,C,Minnesota Timberwolves,235c97e7-073f-4698-a9d9-5046db87b2fd
-42,2014,Cody Zeller,C,Charlotte Bobcats,6cca8b13-5b36-49f6-81f1-748c022c813b
-43,2014,Steven Adams,C,Oklahoma City Thunder,83bd9f95-af5a-43de-b902-e23bccd7a427
-44,2014,Giannis Antetokounmpo,F,Milwaukee Bucks,6e925a07-b5f1-4f4f-87dd-d9fdf1d4ac44
-45,2013,Kyle Singler,G,Detroit Pistons,adf55b95-db67-48b9-97e8-8b6c31949188
-46,2013,Jonas Valanciunas,C,Toronto Raptors,337e419f-a6b4-4512-b4e8-0633bcd5ed84
-47,2013,Andre Drummond,C,Detroit Pistons,af676fc3-cb14-4a84-81f9-ef67f4da06fc
-48,2013,Michael Kidd-Gilchrist,F,Charlotte Bobcats,26e34612-096a-457c-9c70-eed480a7ab1f
-49,2013,Tyler Zeller,C,Cleveland Cavaliers,4c8119d5-9bbc-4775-94d0-e03cb414ffd4
-50,2012,MarShon Brooks,G,New Jersey Nets,8a077022-9b93-47d6-be14-11edff5303d7
-51,2012,Chandler Parsons,F,Houston Rockets,5a70d3d5-b28b-4ec9-ad06-d3253c4b32a6
-52,2012,Isaiah Thomas,G,Sacramento Kings,4e297b95-1410-43fc-9c84-d860693ed86d
-53,2012,Tristan Thompson,F,Cleveland Cavaliers,b86dd332-07fd-404d-82dd-9cb7cec378e8
-54,2012,Derrick Williams,F,Minnesota Timberwolves,ce21fe03-d69d-49b7-8356-1b9921b24ed0
-55,2011,Eric Bledsoe,SG,LA Clippers,159bde5c-5d15-494b-90d3-f60458bdf4b3
-56,2011,Wesley Johnson,F,Minnesota Timberwolves,cba867ca-2c1d-44c8-ae8b-e855ff414e73
-57,2011,Paul George,F,Indiana Pacers,8bd6e7d0-0bde-4802-8a48-8678839740cc
-58,2011,Derrick Favors,F,Utah Jazz,ce0a717f-9f25-46a1-9342-45cdb39228fe
-59,2011,Greg Monroe,C,Detroit Pistons,ae43170c-3520-4c0b-bbb6-60207a0ee1d5
-60,2010,DeJuan Blair,C,San Antonio Spurs,432d0c33-1fad-4504-8bf6-039757e82606
-61,2010,Jonny Flynn,PG,Minnesota Timberwolves,e5e97c0f-de9a-47ba-865b-f8c75928abbc
-62,2010,James Harden,SG,Oklahoma City Thunder,6472c887-cc8f-407b-b727-ccfcb5e803df
-63,2010,Jonas Jerebko,F,Detroit Pistons,8b8f8cf5-703c-448a-b26a-a48e7f4edffd
-64,2010,Marcus Thornton,SG,New Orleans Hornets,fdddbcc1-93d1-4cb0-8dec-cdd4af878b2a
-65,2009,Rudy Fernandez,SG,Portland Trail Blazers,f725d512-1654-44f0-8ac0-591305879e62
-66,2009,Marc Gasol,C,Memphis Grizzlies,e678ec98-8743-4724-8e85-4b8f82f142a3
-67,2009,D.J. Augustin,G,Charlotte Bobcats,
-68,2009,Mario Chalmers,G,Miami Heat,e3e07fea-7ac5-4c07-97ae-77feb1235440
-69,2009,Eric Gordon,SG,LA Clippers,250749af-f7de-45fb-b913-00af35d8e26c
-70,2009,Kevin Love,PF,Minnesota Timberwolves,6cf2a8c0-1e3f-453d-a0be-246271d28dc7
-71,2008,Juan Carlos Navarro,PG,Memphis Grizzlies,f140bc2b-9afb-4a98-bfea-665e6b9d9962
-72,2008,Carl Landry,PF,Houston Rockets,60576d94-fa5b-4b93-87b4-47a8f34c3efd
-73,2008,Rodney Stuckey,PG,Detroit Pistons,3aeac503-99b8-4085-812e-29a6cda52d1d
-74,2008,Thaddeus Young,PF,Philadelphia 76ers,59cfcade-a2c0-4523-8ba3-e4ea7fd72ef7
-75,2008,Jamario Moon,SF,Toronto Raptors,9f62810b-a053-4232-92f9-30ca49c98969
-76,2007,Paul Millsap,PF,Utah Jazz,533d4641-ef66-4427-9367-61da9af5b80c
-77,2007,Adam Morrison,SF,Charlotte Bobcats,33007e8e-651c-4321-88b6-09b49f76fcbb
-78,2007,Rajon Rondo,PG,Boston Celtics,2842ea7e-5a06-402c-aaa8-018f06cc3721
-79,2007,Craig Smith,PF,Minnesota Timberwolves,4fd17366-1913-4ade-8f0d-f3da4176db03
-80,2007,Tyrus Thomas,PF,Chicago Bulls,7fd2bd37-0fd6-4a35-8a9b-407906671421
-81,2007,Marcus Williams,PG,New Jersey Nets,a2196f00-006a-4541-a31a-a15f460ecddf
-82,2007,Walter Herrmann Heinrich,PF,Charlotte Bobcats,
-83,2006,Raymond Felton,G,Charlotte Bobcats,ffa7fa37-5ed9-4e86-8b18-3d75b8256cce
-84,2006,Ryan Gomes,SF,Boston Celtics,6427ec4d-9719-40d7-b9d6-6800b9e19666
-85,2006,Danny Granger,SF,Indiana Pacers,9377be27-4adb-4540-b2f2-f7f81be9c3d3
-86,2006,Luther Head,PG,Houston Rockets,3c75dce6-c475-4402-9048-a547ba2a683c
-87,2006,Marvin Williams,F,Atlanta Hawks,976664e6-c7c2-4d98-b443-a91e4c8a3a92
-88,2005,Nenad Krstic,C,New Jersey Nets,c6c94028-e883-4bd5-8c24-b1d4ef801132
-89,2005,Josh Childress,F,Atlanta Hawks,aa7c6d42-b558-4ea8-8d26-d9d5135569b0
-90,2005,Al Jefferson,C,Boston Celtics,18f3ba7d-1793-4691-8cf9-1e7cb4d40f38
-91,2005,Josh Smith,PF,Atlanta Hawks,848829ab-8eaa-44d6-8620-3615d00450c1
-92,2005,Jameer Nelson,G,Orlando Magic,5dae7424-3962-4b5c-81c6-e36a935230cf
-93,2004,T.J. Ford,PG,Milwaukee Bucks,
-94,2004,Jarvis Hayes,SF,Washington Wizards,c20aa963-9f1e-460f-a8a4-c8b438172fa5
-95,2004,Josh Howard,SF,Dallas Mavericks,3fd1377e-8ee2-4aad-8ab0-3d5f46809884
-96,2004,Udonis Haslem,PF,Miami Heat,4be87180-048c-4693-8987-98bdeca0a838
-97,2004,Marquis Daniels,SG,Dallas Mavericks,ed11f4d4-54fc-47de-b71c-0d938e98a43c
-98,2003,Manu Ginobili,G,San Antonio Spurs,5e65e442-1275-42bb-bb05-8cefb258bbcc
-99,2003,Gordan Giricek,SG,Orlando Magic,c14464d1-d829-4627-a17b-f84c6f85d1fb
-100,2003,Carlos Boozer,PF,Cleveland Cavaliers,9d42e4dd-f381-4716-bdac-208830784c89
-101,2003,Jay Williams,G,Chicago Bulls,7a090a77-6a4c-4f2d-ba09-efd821b6c0e6
-102,2003,J.R. Bremer,PG,Boston Celtics,
-103,2002,Zeljko Rebraca,C,Detroit Pistons,f5dcc63e-e217-4847-a026-7d78251321e2
-104,2002,Eddie Griffin,PF,Houston Rockets,80e6c85d-9771-426a-acc6-babbf67ea2bb
-105,2002,Richard Jefferson,F,New Jersey Nets,a49ede90-f0d8-44df-bed7-ac22fdd8d76d
-106,2002,Joe Johnson,G,Phoenix Suns,f2a1b12a-e644-451d-bb44-ff366af917ac
-107,2002,Vladimir Radmanovic,SF,Seattle SuperSonics,d2168325-d4ce-4128-a7c4-b6ac0649bbd7
-108,2002,Jamaal Tinsley,PG,Indiana Pacers,14169c88-81b6-4a9e-b963-613c6199a33a
-109,2001,Courtney Alexander,SG,Washington Wizards,b1d29565-5c44-4ff3-995d-74899113d603
-110,2001,Marcus Fizer,F,Chicago Bulls,3b739651-fd13-47c0-a3a9-070df5292e0a
-111,2001,Desmond Mason,SF,Seattle SuperSonics,78745f36-ec0b-4843-bc9b-656f9946ae07
-112,2001,Chris Mihm,C,Cleveland Cavaliers,1fe955d6-ded1-4f6e-9542-b6c0e0719676
-113,2001,Hedo Turkoglu,SF,Sacramento Kings,
-114,2000,Metta World Peace,SF,Chicago Bulls,7fa706ab-2829-45e7-868d-59f8a1a3ee6a
-115,2000,Chucky Atkins,PG,Orlando Magic,5ee45df7-40d4-450f-9e09-4969c0ebad00
-116,2000,Shawn Marion,SG,Phoenix Suns,40337b0b-ac2c-4381-bff4-fca22fce984e
-117,2000,James Posey,SF,Denver Nuggets,09e7f577-9aa6-4992-b282-60802b672170
-118,2000,Jason Terry,G,Atlanta Hawks,dbb4a5fa-dac7-4dac-8916-9d94a180b60a
+0,2022,Herb Jones,SF,New Orleans Pelicans,0069762f-01ea-4b6f-923e-7dbdb288c840
+1,2022,Ayo Dosunmu,SG,Chicago Bulls,e4334f24-c5fc-426a-b6c2-941ab2a7e2e7
+2,2022,Chris Duarte,SG,Indiana Pacers,fa5df083-dd1e-4bc3-ab1b-3c41306309c9
+3,2022,Bones Hyland,PG,Denver Nuggets,65a9123f-1157-4dec-bef5-de9e1b07d3d2
+4,2022,Josh Giddey,SG,Oklahoma City Thunder,d4447ed8-4854-4ad0-a5aa-bc37cbc9b79f
+5,2021,Desmond Bane,SG,Memphis Grizzlies,65319385-5785-4bf9-a195-81b4aa7c605f
+6,2021,Immanuel Quickley,SG,New York Knicks,568aaa8e-7305-4548-9805-a44ce994b54d
+7,2021,Patrick Williams,PF,Chicago Bulls,d46a2a50-660e-4d7d-81d9-7150f6b80e49
+8,2021,Isaiah Stewart,C,Detroit Pistons,2dd57508-99f3-47a7-8c02-fb1c4bc26052
+9,2021,Isaac Okoro,SF,Cleveland Cavaliers,07186299-7492-4cca-99d3-1003370dc903
+10,2020,Terence Davis,G,Toronto Raptors,52ae96eb-1c75-4d19-b4d2-dba9f0b440da
+11,2020,Rui Hachimura,F,Washington Wizards,89e040d6-0657-49b1-8bd5-fc11af58d83c
+12,2020,PJ Washington,F,Charlotte Hornets,d2eecaf6-7222-4a03-bba4-8016e209b58e
+13,2020,Coby White,G,Chicago Bulls,11db75ee-57ea-4c90-9eff-4aa0e6ab1eda
+14,2020,Tyler Herro,G,Miami Heat,b1359ec1-999b-418f-84e8-791659e3d59c
+15,2019,Landry Shamet,G,LA Clippers,1522bfb2-55d6-46d0-92e6-b04260693180
+16,2019,Kevin Huerter,G,Atlanta Hawks,d5b19326-590d-4476-b71f-93f8ce80506f
+17,2019,Collin Sexton,G,Cleveland Cavaliers,b8ee5f0d-b500-4681-a467-f3eff6324683
+18,2019,Shai Gilgeous-Alexander,G,LA Clippers,8ea7afeb-fc98-4fab-a247-ef551b049d8d
+19,2019,Mitchell Robinson,C,New York Knicks,f0711681-9292-4e81-aeee-dd5e1fee6b22
+20,2018,Bogdan Bogdanovic,G,Sacramento Kings,54723891-e923-4403-9de5-ce5a3c3f1fd2
+21,2018,John Collins,F,Atlanta Hawks,e7beaed2-8406-414a-a442-0791fe240544
+22,2018,Dennis Smith,G,Dallas Mavericks,00dee947-45e1-434a-b4ef-b04c843acbfa
+23,2018,Josh Jackson,F,Phoenix Suns,0f8c0535-9a0a-45ef-8556-3676481c94a5
+24,2018,Lonzo Ball,G,Los Angeles Lakers,3e6a9381-3e26-4fa3-9181-5ca701b3fafc
+25,2017,Yogi Ferrell,G,Dallas Mavericks,ef7e63eb-41e7-429c-a852-8caad96673db
+26,2017,Marquese Chriss,F,Phoenix Suns,a3258f01-9d9d-41cf-9cc8-09802d325e04
+27,2017,Brandon Ingram,F,Los Angeles Lakers,843ee6e0-6471-4fcb-9a23-72e479e6b56d
+28,2017,Jaylen Brown,F,Boston Celtics,c6b6da2c-e87d-413f-9b20-2956cf445ea8
+29,2017,Jamal Murray,G,Denver Nuggets,f23225e8-07aa-428b-afcf-1f7129c8f0a3
+30,2016,Willie Cauley-Stein,F,Sacramento Kings,d748f99a-f263-4fd7-8016-e2d7a4c298d8
+31,2016,Myles Turner,F,Indiana Pacers,1d73aa8e-2ad6-4893-845a-b20a22863047
+32,2016,Justise Winslow,F,Miami Heat,543f64b7-92fd-4004-917b-05ea7ec8a57f
+33,2016,D'Angelo Russell,G,Los Angeles Lakers,40c50918-6e04-4c45-8745-f571052c3746
+34,2016,Emmanuel Mudiay,G,Denver Nuggets,0f7cc253-29cd-4572-96ec-8880a8d9ba5b
+35,2015,Bojan Bogdanovic,F,Brooklyn Nets,337aee18-5a6f-4edb-b093-6aa8515cb969
+36,2015,Langston Galloway,G,New York Knicks,3c1d4a18-69d5-463e-9df6-b3a94949ac03
+37,2015,Marcus Smart,G,Boston Celtics,3405bc55-e42c-4c1a-bf28-8cce55075991
+38,2015,Zach LaVine,G,Minnesota Timberwolves,06c61086-f2bb-4994-9aa3-17a00d3ec327
+39,2015,Jusuf Nurkic,C,Denver Nuggets,03492446-69fc-4249-a793-7921bfa6c664
+40,2014,Kelly Olynyk,C,Boston Celtics,40d27056-9a6f-49d1-a5e7-f450f8549647
+41,2014,Gorgui Dieng,C,Minnesota Timberwolves,cc059c85-f0e9-4ab3-86cf-f74a78c3c50f
+42,2014,Cody Zeller,C,Charlotte Bobcats,d154be96-2675-4c8e-b5c8-a9ba6b37faff
+43,2014,Steven Adams,C,Oklahoma City Thunder,46ce77d6-85a7-4a93-ba7d-f335ec907c76
+44,2014,Giannis Antetokounmpo,F,Milwaukee Bucks,f5e976f0-2383-4f34-869e-912b0daebc1d
+45,2013,Kyle Singler,G,Detroit Pistons,f8b9ea86-0b12-41ce-ba02-af6099c8696a
+46,2013,Jonas Valanciunas,C,Toronto Raptors,363e7f6b-4c34-4443-a2fa-86af3601dec5
+47,2013,Andre Drummond,C,Detroit Pistons,1e0d924a-63aa-43fe-8912-7708757d7242
+48,2013,Michael Kidd-Gilchrist,F,Charlotte Bobcats,4d1c4ea2-ca30-4354-bf59-e58fad34489d
+49,2013,Tyler Zeller,C,Cleveland Cavaliers,ceeb531e-a24e-4be6-a605-bb0514ecc1f3
+50,2012,MarShon Brooks,G,New Jersey Nets,91805d01-8e09-4581-addc-c42855765484
+51,2012,Chandler Parsons,F,Houston Rockets,db7bf925-db6a-4419-80f4-37fd136d0d2e
+52,2012,Isaiah Thomas,G,Sacramento Kings,a335578c-6e7e-4fa5-bb9d-c3181439274c
+53,2012,Tristan Thompson,F,Cleveland Cavaliers,678144c4-fb03-42fa-88df-c77576787fa7
+54,2012,Derrick Williams,F,Minnesota Timberwolves,ef53d04e-22ca-42bb-a116-c2af9bd85d04
+55,2011,Eric Bledsoe,SG,LA Clippers,17636843-a64e-4318-879c-78b734d763e8
+56,2011,Wesley Johnson,F,Minnesota Timberwolves,dc0e75f9-d0e2-46c3-a203-aa625abd46f1
+57,2011,Paul George,F,Indiana Pacers,fd3a23ba-8ccf-4790-bdf7-52782a310c86
+58,2011,Derrick Favors,F,Utah Jazz,bc659b74-d3c9-4eff-b31b-cb8ab7dcbd29
+59,2011,Greg Monroe,C,Detroit Pistons,8504f9a2-2cd4-40c8-9bec-88e005348c67
+60,2010,DeJuan Blair,C,San Antonio Spurs,58d5a5fd-f20e-4716-8068-f4a9d4991b69
+61,2010,Jonny Flynn,PG,Minnesota Timberwolves,ba48f287-b8bb-4a81-9860-9d08e6fdc6ba
+62,2010,James Harden,SG,Oklahoma City Thunder,ef0995d8-4803-48be-b6b8-d6cdc7e8c433
+63,2010,Jonas Jerebko,F,Detroit Pistons,f4e85826-129d-4fc4-ad66-8d94b41d4a94
+64,2010,Marcus Thornton,SG,New Orleans Hornets,de69b53e-9383-451f-8954-3acc624f458b
+65,2009,Rudy Fernandez,SG,Portland Trail Blazers,0a6a1411-f53a-48f6-a588-9ad174bf3f87
+66,2009,Marc Gasol,C,Memphis Grizzlies,95e02886-747c-4d37-8859-30842f3b7707
+67,2009,DJ Augustin,G,Charlotte Bobcats,642db731-a782-4252-8a65-13454e56f4ac
+68,2009,Mario Chalmers,G,Miami Heat,ef58d8ba-e529-4bcc-9e67-981596317b99
+69,2009,Eric Gordon,SG,LA Clippers,c9ef1818-96c7-404e-bec3-15d1ff9cc703
+70,2009,Kevin Love,PF,Minnesota Timberwolves,d5ae36c1-d5d4-4d26-8c87-cdc42b78b90a
+71,2008,Juan Carlos Navarro,PG,Memphis Grizzlies,a67888b2-bca3-4098-90d7-e8a660a9e4aa
+72,2008,Carl Landry,PF,Houston Rockets,84d20a39-3a50-4af0-a6d0-79f0ca06661e
+73,2008,Rodney Stuckey,PG,Detroit Pistons,56d81f06-4fa6-4368-a675-670d8647809e
+74,2008,Thaddeus Young,PF,Philadelphia 76ers,251cf798-a198-478f-8cfb-7a7bd077edcf
+75,2008,Jamario Moon,SF,Toronto Raptors,25dcec7d-88ea-403f-81ec-e21bde37c183
+76,2007,Paul Millsap,PF,Utah Jazz,34e4eb48-38f8-4a3d-84d9-aabfb3b229db
+77,2007,Adam Morrison,SF,Charlotte Bobcats,d00e4241-af32-49c8-bfbf-a2629f3bdd6f
+78,2007,Rajon Rondo,PG,Boston Celtics,cd4a52de-5f5b-4ed8-a062-f9bc6e075400
+79,2007,Craig Smith,PF,Minnesota Timberwolves,6244e4e7-56f3-480c-b213-35170ae45bb8
+80,2007,Tyrus Thomas,PF,Chicago Bulls,5f1eb805-446b-45c6-bbb0-8a43b1de4380
+81,2007,Marcus Williams,PG,New Jersey Nets,7f7cc7c4-5db5-4b1e-88b1-a3eccaa33b4e
+82,2007,Walter Herrmann,PF,Charlotte Bobcats,3ff8e0cd-f319-4db2-a15e-5218731bb2fd
+83,2006,Raymond Felton,G,Charlotte Bobcats,d943bd95-282c-4f42-86e0-d3103d1284bc
+84,2006,Ryan Gomes,SF,Boston Celtics,8c037515-a91a-451c-ab3c-0b1d26e9966b
+85,2006,Danny Granger,SF,Indiana Pacers,8233d9c6-aa3b-4003-b811-f76f0adaad5b
+86,2006,Luther Head,PG,Houston Rockets,5f9a2a63-7e93-4f1c-9f0e-3a854e412630
+87,2006,Marvin Williams,F,Atlanta Hawks,40aa8b01-32d3-4824-8aad-7ec22496e411
+88,2005,Nenad Krstic,C,New Jersey Nets,a9c69c50-2092-4132-a581-4f6deeabe74b
+89,2005,Josh Childress,F,Atlanta Hawks,1f3bbb8c-e425-4069-86eb-af8b99d03a15
+90,2005,Al Jefferson,C,Boston Celtics,1d68c26e-b492-433f-aeee-6c34f9f786de
+91,2005,Josh Smith,PF,Atlanta Hawks,8c4597dc-5c78-4733-b3da-5fcb43fcb5c1
+92,2005,Jameer Nelson,G,Orlando Magic,69c8adfd-bf35-4507-b62e-ab2a6e4adbd3
+93,2004,TJ Ford,PG,Milwaukee Bucks,571d9ecb-74f3-42d0-91ca-8f187769bf13
+94,2004,Jarvis Hayes,SF,Washington Wizards,2c59c1af-5059-49e6-a5fe-5cdc005d1e21
+95,2004,Josh Howard,SF,Dallas Mavericks,92c118da-7693-4505-89cf-76decdeec10f
+96,2004,Udonis Haslem,PF,Miami Heat,93c113d8-0328-41cb-a022-c94f2ba0740f
+97,2004,Marquis Daniels,SG,Dallas Mavericks,b62ffea1-e092-4065-8eba-eceb6c2dbec1
+98,2003,Manu Ginobili,G,San Antonio Spurs,294027c7-c0bb-467a-8693-07d4216b7587
+99,2003,Gordan Giricek,SG,Orlando Magic,2d21a134-1850-4f73-be8e-ffb9ff0da023
+100,2003,Carlos Boozer,PF,Cleveland Cavaliers,3bf7f1dc-c213-4da8-9385-3e65646f4279
+101,2003,Jay Williams,G,Chicago Bulls,4986dec1-5b84-4466-9ca6-8336beb15bcd
+102,2003,JR Bremer,PG,Boston Celtics,63d2a63f-5407-4335-998a-1006fbf59aea
+103,2002,Zeljko Rebraca,C,Detroit Pistons,6117924d-9502-43d4-90e8-badc6e2db629
+104,2002,Eddie Griffin,PF,Houston Rockets,d9250b43-6953-4d7b-87dc-fffe60c0a33b
+105,2002,Richard Jefferson,F,New Jersey Nets,89a8b86f-f263-45ea-9c18-e41b5e63c58d
+106,2002,Joe Johnson,G,Phoenix Suns,fca7c221-f167-42c8-a42a-9e28b3cef10e
+107,2002,Vladimir Radmanovic,SF,Seattle SuperSonics,e3989233-76c1-462d-9bee-9bac0d02a72f
+108,2002,Jamaal Tinsley,PG,Indiana Pacers,7281795b-6550-48ac-a0f4-f717ff6a4de0
+109,2001,Courtney Alexander,SG,Washington Wizards,409365f9-b562-45a2-b072-c44d7e74cc7b
+110,2001,Marcus Fizer,F,Chicago Bulls,000067f7-aad4-483c-ad54-00c846384e72
+111,2001,Desmond Mason,SF,Seattle SuperSonics,b7b65ade-a781-4030-8f77-081a4145b573
+112,2001,Chris Mihm,C,Cleveland Cavaliers,9ba80a11-9aa7-4522-9c85-2fc5c3452b8a
+113,2001,Hidayet Turkoglu,SF,Sacramento Kings,da312d61-dee7-4dd1-8a13-27f914f06475
+114,2000,Metta World Peace,SF,Chicago Bulls,7d5410b3-0b90-4fc9-8350-b731776296d0
+115,2000,Chucky Atkins,PG,Orlando Magic,e4ecbbd1-a1c7-4d54-934a-1f4d81fe2366
+116,2000,Shawn Marion,SG,Phoenix Suns,5d4d73e4-5fe8-43d3-8869-8997e243d262
+117,2000,James Posey,SF,Denver Nuggets,373c2151-f10c-4224-909f-ea9139e8964f
+118,2000,Jason Terry,G,Atlanta Hawks,be74addb-41ff-4399-90a7-389841b06f97

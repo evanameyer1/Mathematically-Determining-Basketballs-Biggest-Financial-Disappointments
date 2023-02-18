@@ -1,25 +1,25 @@
 ,Year,Player,Pos,Team,UUID
-0,2022,Scottie Barnes,SF,Toronto Raptors,ccdab7c9-6e01-43a2-8455-ccddcca2d572
-1,2021,LaMelo Ball,PG,Charlotte Hornets,9c37080f-25e9-496f-9fc9-7dd966024f91
-2,2020,Ja Morant,G,Memphis Grizzlies,995f5469-0ad6-4593-9259-39a82870eb2d
-3,2019,Luka Doncic,G,Dallas Mavericks,7b9e31a5-eda3-46f3-aa67-b935332d5745
-4,2018,Ben Simmons,F,Philadelphia 76ers,2c9a6692-e0eb-459a-b699-52814169068c
-5,2017,Malcolm Brogdon,G,Milwaukee Bucks,ada81c05-555a-43e6-866a-1403fa633f61
-6,2016,Karl-Anthony Towns,F,Minnesota Timberwolves,31ae97da-8ff7-454e-b3d6-b34934202f0a
-7,2015,Andrew Wiggins,F,Minnesota Timberwolves,38e99d18-9e67-48ea-bbdd-fbcfcfc92a9a
-8,2014,Michael Carter-Williams,G,Philadelphia 76ers,c26f7170-b033-4595-82c8-263158604e64
-9,2013,Damian Lillard,G,Portland Trail Blazers,b0c5cbfc-2e55-4d23-865a-138b11dfe47a
-10,2012,Kyrie Irving,PG,Cleveland Cavaliers,e3812eca-9504-4fe6-9eed-473c67a03023
-11,2011,Blake Griffin,PF,LA Clippers,4e3f747b-88c5-4f81-b963-161a2d8f996e
-12,2010,Tyreke Evans,G,Sacramento Kings,ee2d9ea6-cf63-4111-a161-edbb249d7365
-13,2009,Derrick Rose,PG,Chicago Bulls,8a6de7da-1ec4-41ee-baa9-f791b118550c
-14,2008,Kevin Durant,PF,Seattle SuperSonics,fd4f493e-5002-456a-988a-109d51120984
-15,2007,Brandon Roy,SG,Portland Trail Blazers,2d202566-6179-4136-a5bc-b08379d3ee95
-16,2006,Chris Paul,PG,NO/Oklahoma City  Hornets,6b205a48-76fd-4b71-87fc-d92196e998af
-17,2005,Emeka Okafor,C,Charlotte Bobcats,06c5be50-b67d-4f96-aa71-84a7a323d817
-18,2004,LeBron James,SF,Cleveland Cavaliers,4ae6326c-7a7a-4902-a874-ae7a1358a285
-19,2003,Amar'e Stoudemire,C,Phoenix Suns,
-20,2002,Pau Gasol,PF,Memphis Grizzlies,a9e30495-6389-4abf-b861-cca562269443
-21,2001,Mike Miller,SG,Orlando Magic,0235790d-86c2-49b9-b093-b95bec9165e2
-22,2000,Elton Brand,PF,Chicago Bulls,1a076e4d-1d1c-4ff8-8807-0bab0c19f8ec
-23,2000,Steve Francis,PG,Houston Rockets,db5d76d1-f6c1-40c9-a12d-cf464dfb14bc
+0,2022,Scottie Barnes,SF,Toronto Raptors,b6067532-6a32-4682-b8f1-4c88f3a771b2
+1,2021,LaMelo Ball,PG,Charlotte Hornets,d05e16d4-c65d-4bf2-a777-8212d32f959a
+2,2020,Ja Morant,G,Memphis Grizzlies,7511efae-6609-4e92-b8c4-86809070e70a
+3,2019,Luka Doncic,G,Dallas Mavericks,75576fb7-2f8a-499b-b20e-e5bf1c651e69
+4,2018,Ben Simmons,F,Philadelphia 76ers,faf68c2e-ae37-47b3-9390-af15dd7ecd3b
+5,2017,Malcolm Brogdon,G,Milwaukee Bucks,86c3877b-89d0-47f1-a67a-85a40bbf4fa0
+6,2016,Karl-Anthony Towns,F,Minnesota Timberwolves,63a46e64-b149-4624-9b93-6d707112e409
+7,2015,Andrew Wiggins,F,Minnesota Timberwolves,30f36cfa-3eaf-4fba-ae7d-5a33ba2446ee
+8,2014,Michael Carter-Williams,G,Philadelphia 76ers,428ac42d-ad0f-4c59-a8e6-158bb1673e15
+9,2013,Damian Lillard,G,Portland Trail Blazers,661aaab7-cd03-4fc0-a2d5-66c720502a29
+10,2012,Kyrie Irving,PG,Cleveland Cavaliers,6c1bb9b8-8772-428c-bdd6-b1956c33c58a
+11,2011,Blake Griffin,PF,LA Clippers,548d4996-f15b-46af-9dbf-38d6272876c7
+12,2010,Tyreke Evans,G,Sacramento Kings,ea2ffc40-e1c3-49e3-b18d-0d7bdac2a7c7
+13,2009,Derrick Rose,PG,Chicago Bulls,e7d6802d-b0a7-4172-a723-dd36c473553c
+14,2008,Kevin Durant,PF,Seattle SuperSonics,3a91d425-1011-4d09-9852-8cd43df314bc
+15,2007,Brandon Roy,SG,Portland Trail Blazers,7f90bd63-ee1a-485d-a49f-e7cf62a0a1bb
+16,2006,Chris Paul,PG,NO/Oklahoma City  Hornets,61cbf931-8bc1-4186-99b6-41709cb25bf5
+17,2005,Emeka Okafor,C,Charlotte Bobcats,fe554532-afe4-469a-8913-3adff81412db
+18,2004,LeBron James,SF,Cleveland Cavaliers,f15e32f6-36a9-4efb-bce0-043c1bc98f68
+19,2003,Amare Stoudemire,C,Phoenix Suns,7b22af5c-e512-4e92-b842-66cda73f0254
+20,2002,Pau Gasol,PF,Memphis Grizzlies,4851c61b-ef46-44ed-b940-4c1229208225
+21,2001,Mike Miller,SG,Orlando Magic,263bcbf1-6373-464f-a26f-b58b8b2a96aa
+22,2000,Elton Brand,PF,Chicago Bulls,d63e5ac8-f1ef-4bd5-8d76-8f4d65432d8a
+23,2000,Steve Francis,PG,Houston Rockets,e80d5f18-0228-43d7-89ad-76d953c0fc4f
