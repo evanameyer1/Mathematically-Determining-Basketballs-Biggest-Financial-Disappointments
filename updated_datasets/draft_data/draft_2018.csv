@@ -1,7 +1,6 @@
 ,Pick,Team,Player,Year,UUID
 0,1,PHO,Deandre Ayton,2018,ac9da347-5eba-474e-8d53-08d9c1833f72
 1,2,SAC,Marvin Bagley,2018,3d68a340-bc6e-4d0b-8822-5bf6dca266b3
-2,3,ATL,Luka Doncic,2018,75576fb7-2f8a-499b-b20e-e5bf1c651e69
 3,4,MEM,Jaren Jackson Jr,2018,a50f83c0-9c4f-4a18-8bf2-e81f7e6c59ae
 4,5,DAL,Trae Young,2018,d7e8f362-9787-481e-8511-b1d12c6eefed
 5,6,ORL,Mo Bamba,2018,3b3fc02a-81db-4b5e-ad2e-f3e639e2dcc6
@@ -27,7 +26,6 @@
 25,26,PHI,Landry Shamet,2018,1522bfb2-55d6-46d0-92e6-b04260693180
 26,27,BOS,Robert Williams,2018,bc7e2407-e5f1-4210-9a8c-e3e7c9150977
 27,28,GSW,Jacob Evans,2018,10935a7f-680b-44cf-b3af-0a501dff70e6
-28,29,BRK,Dzanan Musa,2018,2cdb3c39-872d-430f-82db-c865198e134d
 29,30,ATL,Omari Spellman,2018,2fd10b89-a632-4086-80c7-f3f3e07a4b64
 30,31,PHO,Elie Okobo,2018,a4182f85-a667-4668-bdef-7bd14a37186a
 31,32,MEM,Jevon Carter,2018,e95ee880-f0ff-4807-9d17-ec53af63216d
@@ -48,9 +46,6 @@
 47,48,MIN,Keita Bates-Diop,2018,6e5f8c11-afc2-4edf-b00d-c357c5e25f32
 48,49,SAS,Chimezie Metu,2018,a4f21a7b-5ee3-49a4-abde-703e7f16675d
 49,50,IND,Alize Johnson,2018,207b5f2b-f3bc-4b8d-8328-1fc5bc63a91a
-50,51,NOP,Tony Parker,2018,0ea2d348-8b73-4aab-8897-7c65a7b7146e
-51,52,UTA,Vincent Edwards,2018,e3be4d11-aa61-48c7-9375-7bfbaf2c6862
-52,53,OKC,Donta Hall,2018,35df822e-8fa4-4690-9996-da6dd65bb343
 53,54,DAL,Shake Milton,2018,274d80a2-e191-4a54-8756-f8df2a606bfa
 54,55,CHO,Arnoldas Kulboka,2018,a7362f3d-995b-43dc-a502-dabe33fa74ab
 55,56,PHI,Raymond Spalding,2018,3d2231d4-4cad-4d8a-b1b2-9c26a4b724a9
