@@ -15,7 +15,6 @@
 13,14,HOU,Patrick Patterson,2010,1e19f27d-c7b0-4b8a-a7c3-3107384f225b
 14,15,MIL,Larry Sanders,2010,b71a23e8-3256-4bbd-824d-9ae29d48d11a
 15,16,MIN,Luke Babbitt,2010,85ea0765-51a9-4a13-ac67-a458704269d8
-16,17,CHI,Kevin Seraphin,2010,3696a6cc-4fb4-4286-b1c5-2b8d9b521266
 17,18,OKC,Eric Bledsoe,2010,17636843-a64e-4318-879c-78b734d763e8
 18,19,BOS,Avery Bradley,2010,d225077d-f5a5-4f73-8ffd-2c9ef8ee2c92
 19,20,SAS,James Anderson,2010,d3bbc3ea-1c9d-4724-98a7-6583681224dc
@@ -26,10 +25,8 @@
 24,25,MEM,Dominique Jones,2010,0c19db06-08a3-4d3d-9dcd-8b0841c8a1e7
 25,26,OKC,Quincy Pondexter,2010,7b57e102-13a3-4471-9f48-e38544a86532
 26,27,NJN,Jordan Crawford,2010,c4a51fed-c79a-41d4-9281-c75eba53cb9b
-27,28,MEM,Greivis Vasquez,2010,01752ca5-e311-4ea9-8d3c-a94e4aeadd28
 28,29,ORL,Daniel Orton,2010,eee44f20-81da-4d3c-a5df-b0949b58a9f9
 29,30,WAS,Lazar Hayward,2010,706c3d6c-5cbe-4b1d-b80f-5045c9727b94
-30,31,NJN,Tibor Pleiss,2010,9c326618-c6c7-4ca7-bdce-a3588708bb96
 31,32,MIA,Dexter Pittman,2010,6248fa41-cadc-4264-a474-821ddbf6ea02
 32,33,SAC,Hassan Whiteside,2010,b2d4e35e-d992-4a59-a168-4ab9036e9ba1
 33,34,POR,Armon Johnson,2010,33c909d5-ce6e-4c3f-85ca-d7ff210927dc
@@ -43,11 +40,7 @@
 41,42,MIA,Da'Sean Butler,2010,64ea09ab-f2ff-42b0-b945-a82a5bc338dc
 42,43,LAL,Devin Ebanks,2010,8d43743c-01a8-4c3c-9b78-634c504fc81f
 43,44,MIL,Jerome Jordan,2010,65e7ff6c-52cd-4e43-97de-2ee0bdbf47d0
-44,45,MIN,Paul Pierce,2010,d14d1240-57b5-4cfb-b38e-3993d37eb1d3
 45,46,PHO,Gani Lawal,2010,c21f75bd-84ca-4f95-9fe5-7311c6b15b41
-46,47,MIL,Tony Allen,2010,f0256318-7460-4b78-9d75-c3673bdef775
-47,48,MIA,Louis Williams,2010,d861edd2-969c-4d79-ae0d-9c6d1ffa11d2
-48,49,SAS,Jason Richardson,2010,8c6dde95-ce6e-46b9-8872-02b07d1e3a05
 49,50,DAL,Solomon Alabi,2010,42eabf42-7762-4416-ac3b-e4e605bccd03
 51,52,BOS,Luke Harangody,2010,71aecd97-1171-4da2-bf3f-29fa7249fecc
 52,53,ATL,Pape Sy,2010,bcb1c032-7383-4404-b340-42e044b3896a
@@ -56,5 +49,3 @@
 55,56,MIN,Hamady N'Diaye,2010,481c3e0e-c5f3-4ede-889e-eae22cce0396
 56,57,IND,Ryan Reid,2010,797fe5d2-3d21-45ce-b96f-683dbf354172
 57,58,LAL,Derrick Caracter,2010,6dc62934-439b-4f7a-86c5-09899994230d
-58,59,ORL,Stanley Johnson,2010,11278856-d9a3-476e-a2e3-75d4e8b3c7dc
-59,60,PHO,Dwayne Jones,2010,3fda6bae-72f6-4c71-9843-899f0f5e1e16
