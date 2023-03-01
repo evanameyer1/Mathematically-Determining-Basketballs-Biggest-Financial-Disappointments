@@ -77,6 +77,7 @@ select
 select 
 	sub.player, 
 	sub.uuid,
+	sub.team,
 	sub.wins,
 	sub.salary,
 	case when sub.relative_contributions = 0 then 0 else (sub.relative_salary / sub.relative_contributions) end as cost_per_output
@@ -107,6 +108,7 @@ select
 		select
 			t2."Player" as player,
 			t2."UUID" as uuid,
+			t2."Team" as team,
 			t2."Salary" as salary,
 			t1.avg_salary,
 			(t2."Salary" / t1.avg_salary) * 100 as relative_salary,
@@ -118,3 +120,47 @@ select
 	) sub
 	where sub.wins IS NOT NULL
 	order by 5 desc
+	
+	
+-- redoing player worth with salary scores calculated in python --
+
+select
+	sub.uuid,
+	sub.year,
+	sub.team,
+	sub.player,
+	sub.salary,
+	sub.percent_of_team,
+	sub.wins as wins_contributed,
+	case when sub.relative_wins = 0 then 0 else (sub.percent_of_team / sub.relative_wins)::decimal(6,2) end as production_score
+	from (
+		with t1 as (
+			select 
+				avg(adjusted_wins)::Decimal(6,2) as avg_wins
+				from stats_2000
+		),
+
+		t2 as (
+			select
+				"UUID" as uuid,
+				"Year" as year,
+				"Abb" as team,
+				sal."Player" as player,
+				"Salary" as salary,
+				("Perc")::decimal(6,4) as percent_of_team,
+				"Perc_score" as salary_score,
+				"Wins" as wins,
+				(adjusted_wins)::Decimal(6,2) as adjusted_wins
+				from team_salaries_2000 sal
+				left join stats_2000 stat
+					using("UUID")
+		)
+		
+		select 
+			t2.*,
+			(t2.adjusted_wins / t1.avg_wins)::decimal(6,4) as relative_wins
+			from t1, t2
+	) sub
+	where wins IS NOT NULL
+	order by 8 desc
+	
