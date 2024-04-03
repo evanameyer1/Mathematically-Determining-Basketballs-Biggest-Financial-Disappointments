@@ -1,4 +1,4 @@
-# TMathematically Determining Basketball's Biggest Financial Disappointments
+# Mathematically Determining Basketball's Biggest Financial Disappointments
 
 A 2-week deep-dive project determining which players had some of the NBA’s worst seasons since 1996. I attempted to define “disappointment” quantifiably, by comparing production to expectations from a financial perspective. 
 
